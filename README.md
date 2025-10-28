@@ -633,25 +633,7 @@ cybersecurity-quiz-generator/
    
    **Explanation**: The final phase involves reviewing the incident, documenting lessons learned, and improving processes to prevent future incidents.
 
----
 
-## 📸 Workflow Diagrams
-
-### Actual Workflow Reference
-
-#image
-
-#image
-
-#image
-
-#image
-
-#image
-
-#image
-
----
 
 ## 🔧 Deployment
 
