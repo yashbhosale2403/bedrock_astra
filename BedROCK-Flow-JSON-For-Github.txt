@@ -1,14 +1,12 @@
 {
-    "name": "Quiz-Flow",
-{
-    "name": "Quiz-Flow",
-    "description": "This Flow will Generate a Quiz using the lambda function",
-    "executionRoleArn": "arn:aws:iam::302263067206:role/service-role/AmazonBedrockExecutionRoleForFlows_BKPT8U8RAMH",
-    "id": "RWI6WXFAZ8",
-    "arn": "arn:aws:bedrock:us-east-1:302263067206:flow/RWI6WXFAZ8",
+    "name": "Cybersecurity-Quiz-Flow",
+    "description": "This Flow will Generate a Cybersecurity Quiz using the lambda function",
+    "executionRoleArn": "arn:aws:iam::302263067206:role/service-role/AmazonBedrockExecutionRoleForFlows_CYBERSEC",
+    "id": "CYBER123XYZ",
+    "arn": "arn:aws:bedrock:us-east-1:302263067206:flow/CYBER123XYZ",
     "status": "Prepared",
-    "createdAt": "2025-10-04T13:49:48.048532+00:00",
-    "updatedAt": "2025-10-04T14:23:05.269277+00:00",
+    "createdAt": "2025-10-29T13:49:48.048532+00:00",
+    "updatedAt": "2025-10-29T14:23:05.269277+00:00",
     "version": "DRAFT",
     "definition": {
         "nodes": [
@@ -44,7 +42,7 @@
                 "type": "Agent",
                 "configuration": {
                     "agent": {
-                        "agentAliasArn": "arn:aws:bedrock:us-east-1:302263067206:agent-alias/WFUWI1HSTD/M8IQPJLQE0"
+                        "agentAliasArn": "arn:aws:bedrock:us-east-1:302263067206:agent-alias/CYBERAGENT1/M8IQPJLQE0"
                     }
                 },
                 "inputs": [
@@ -101,4 +99,3 @@
     },
     "validations": []
 }
-(END)
