@@ -1,5 +1,7 @@
 # 🛡️ Cybersecurity Quiz-Generator-BedROCK Agent
 
+> **Moved.** This project now lives in [ai-agents-lab/bedrock-quiz-agent](https://github.com/yashbhosale2403/ai-agents-lab/tree/main/bedrock-quiz-agent). This repository is archived.
+
 > An intelligent AI-powered cybersecurity quiz generation system built with AWS Bedrock, Lambda, and AstraDB
 
 [![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-FF9900?logo=amazon-aws)](https://aws.amazon.com/bedrock/)
